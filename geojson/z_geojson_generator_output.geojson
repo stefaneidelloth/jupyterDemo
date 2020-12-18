@@ -7,9 +7,8 @@
     "type": "Point", 
     "coordinates": [ 8.4413, 49.0283 ] 
   },
- "properties": { 
-    "marker-size": "large",
-    "marker-color": "#red"
+ "properties": {    
+    "marker-color": "#00ff00"
   }
 }
   
