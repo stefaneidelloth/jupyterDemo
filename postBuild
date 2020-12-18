@@ -12,7 +12,7 @@ jupyter labextension install jupyterlab-plotly --no-build
 jupyter labextension install plotlywidget --no-build
 
 #geojson
-RUN jupyter labextension install @jupyterlab/geojson-extension --no-build
+jupyter labextension install @jupyterlab/geojson-extension --no-build
 
 #leaflet
 jupyter labextension install jupyter-leaflet  --no-build
