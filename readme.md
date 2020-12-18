@@ -56,13 +56,13 @@ If you get the below examples working, please let me know.
 
 **mybinder** (supporting some jupyterlab extensions and pip dependencies)
 
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/a_geojson_extension.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/tree/geojson/a_geojson_extension.ipynb
 
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/b_geopandas_and_ipympl.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/tree/geojson/b_geopandas_and_ipympl.ipynb
 
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/c_leaflet.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/tree/geojson/c_leaflet.ipynb
 
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/d_kepler_gl.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/tree/geojson/d_kepler_gl.ipynb
 
 
 **nbviewer** (only supporting some default dependencies)
