@@ -68,7 +68,7 @@
         "description": "A polygon description",      
         "stroke": "yellow",
         "stroke-opacity": 1,
-        "stroke-width": 3,       
+        "stroke-width": 3       
       },
       "geometry": {
         "type": "LineString",
