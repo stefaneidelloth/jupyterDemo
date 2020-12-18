@@ -37,7 +37,7 @@
         "stroke": "#e70d0d",
         "stroke-opacity": 0.5,
         "stroke-width": 3,
-        "fill": "#555555",
+        "fill": "red",
         "fill-opacity": 0.5
       },
       "geometry": {
