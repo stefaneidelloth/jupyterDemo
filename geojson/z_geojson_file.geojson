@@ -59,6 +59,32 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "__comment__": "Following styling properies are only supported by GitHub and geojson.io, not by jupyterlab-geojson-extension",
+        "title": "A polygon title",
+        "description": "A polygon description",      
+        "stroke": "yellow",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "red",
+        "fill-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.441403284668922,
+            49.028402510687414
+          ],
+          [
+            8.441484086215496,
+            49.028388661050954
+          ]
+        ]
+      }
     }
     
     
