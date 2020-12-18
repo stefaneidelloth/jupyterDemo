@@ -1,5 +1,12 @@
+Github is able to show Jupyter Notebooks with static content, e.g. output of matplotlib:
 
-Please see following links to see interactive notebooks:
+https://github.com/stefaneidelloth/jupyterDemo/blob/master/demo_static.ipynb
+
+Dynamic content does not work, see bokeh outout of following example:
+
+https://github.com/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb
+
+In order to see dynamic/interactive notebooks, you can use:
 
 * nbviewer: https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb?flush_cache=true
 
