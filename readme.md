@@ -25,7 +25,7 @@ to some online service (note different url syntax):
 
 ----
 
-NbViewer and Bokeh do not support everything by default. 
+NbViewer and Binder do not support everything by default. 
 
 If your JupyterLab notebook requires some dependencies,<br>
 you can specify them with<br>
@@ -37,6 +37,7 @@ Also see:
 * https://mybinder.readthedocs.io/en/latest/using/config_files.html
 * https://github.com/jupyterlab/jupyterlab-demo
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab)
 
 If you get the below examples working, please let me know.
 
