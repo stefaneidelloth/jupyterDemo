@@ -1,0 +1,36 @@
+jupyter lab build
+jupyter serverextension enable jupyterlab
+
+#treez
+jupyter labextension install @treezjs/workspace_module --no-build
+
+#ipywidgets
+jupyter labextension install @jupyter-widgets/jupyterlab-manager --no-build
+
+#plotly
+jupyter labextension install jupyterlab-plotly --no-build
+jupyter labextension install plotlywidget --no-build
+
+#geojson
+RUN jupyter labextension install @jupyterlab/geojson-extension --no-build
+
+#leaflet
+jupyter labextension install jupyter-leaflet  --no-build
+
+#kepler
+jupyter labextension install keplergl-jupyter --no-build
+
+#spell checker 
+jupyter labextension install @ijmbarr/jupyterlab_spellchecker --no-build
+
+#table of content 
+jupyter labextension install @jupyterlab/toc --no-build
+
+#variable inspector 
+jupyter labextension install @lckr/jupyterlab_variableinspector --no-build
+
+#ipysheet
+jupyter labextension install ipysheet --no-build
+
+#holoviews
+jupyter labextension install @pyviz/jupyterlab_pyviz --no-build
