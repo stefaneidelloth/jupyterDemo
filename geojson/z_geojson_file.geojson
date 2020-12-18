@@ -1,10 +1,11 @@
 {
     
-    "type": "Feature",
+    "type": "Feature",    
     "geometry": {
         "type": "Point",
         "coordinates": [8.4413, 49.0283]
     },
+    "__comment__": "Following styling properies are only supported by GitHub, not by jupyterlab-geojson-extension"
     "properties": {
            
             "title": "A title",
