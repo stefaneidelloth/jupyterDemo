@@ -55,7 +55,7 @@ https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpat
 https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/d_kepler_gl.ipynb
 
 
-**nbviewer** (not supporting dependencies)
+**nbviewer** (only supporting some default dependencies)
 
 https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/a_geojson_extension.ipynb
 
