@@ -31,7 +31,7 @@
         "__comment__": "Following styling properies are only supported by GitHub and geojson.io, not by jupyterlab-geojson-extension",
         "title": "A title",
         "description": "A description",      
-        "stroke": "red",
+        "stroke": "blue",
         "stroke-opacity": 1,
         "stroke-width": 3,
         "fill": "red",
