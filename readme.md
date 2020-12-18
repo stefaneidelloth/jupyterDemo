@@ -33,6 +33,7 @@ If your JupyterLab notebook requires some dependencies,<br>
 you can specify them with<br>
 * postBuild : a bash script file that can be used to install jupyterlab extensions
 * requirements.txt: install pip packages 
+* environment.yml: install conda packages
 * apt.txt : install linux dependencies with apt-get package manager
 
 Also see:
