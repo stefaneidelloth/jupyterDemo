@@ -21,7 +21,7 @@ to some online service (note different url syntax):
 
 * **nbviewer**: https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb?flush_cache=true
 
-* **mybinder**: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?filepath=demo.ipynb
+* **mybinder**: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=demo.ipynb
 
 ----
 
@@ -43,8 +43,18 @@ If you get the below examples working, please let me know.
 
 
 
+**mybinder**
 
-**nbviewer**
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=geojson/a_geojson_extension.ipynb
+
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=geojson/b_geopandas_and_ipympl.ipynb
+
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=geojson/c_leaflet.ipynb
+
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=geojson/d_kepler_gl.ipynb
+
+
+**nbviewer** (does not work)
 
 https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/a_geojson_extension.ipynb
 
@@ -53,15 +63,5 @@ https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geoj
 https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/c_leaflet.ipynb
 
 https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/d_kepler_gl.ipynb
-
-**mybinder**
-
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?filepath=geojson/a_geojson_extension.ipynb
-
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?filepath=geojson/b_geopandas_and_ipympl.ipynb
-
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?filepath=geojson/c_leaflet.ipynb
-
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?filepath=geojson/d_kepler_gl.ipynb
 
 
