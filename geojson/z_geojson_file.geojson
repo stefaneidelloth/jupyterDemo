@@ -12,11 +12,11 @@
       },
       "properties": {
         "__comment__": "Following styling properies are only supported by GitHub and geojson.io, not by jupyterlab-geojson-extension",
-        "title": "A title",
-        "description": "A description",
+        "title": "A marker title",
+        "description": "A marker description",
         "marker-size": "large",
         "marker-symbol": "bus",
-        "marker-color": "#00ff00",       
+        "marker-color": "#00ff00"       
       }
     },
     
@@ -24,8 +24,8 @@
       "type": "Feature",
       "properties": {
         "__comment__": "Following styling properies are only supported by GitHub and geojson.io, not by jupyterlab-geojson-extension",
-        "title": "A title",
-        "description": "A description",      
+        "title": "A polygon title",
+        "description": "A polygon description",      
         "stroke": "blue",
         "stroke-opacity": 1,
         "stroke-width": 3,
