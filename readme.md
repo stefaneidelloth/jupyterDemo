@@ -16,6 +16,6 @@ https://github.com/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb
 **In order to see dynamic/interactive notebooks**, you can pass the url of a notebook<br>
 to some online service:
 
-* nbviewer: https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb?flush_cache=true
+* **nbviewer**: https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb?flush_cache=true
 
-* mybinder: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?filepath=demo.ipynb
+* **mybinder**: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?filepath=demo.ipynb
