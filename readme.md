@@ -25,11 +25,17 @@ to some online service (note different url syntax):
 
 ----
 
-NbViewer and Bokeh do not support everything. If your notebook requires some JupyterLab extension,<br> 
-it might not work. Below are **some gis examples that do not work**.<br>
+NbViewer and Bokeh do not support everything by default. 
 
-It is possible to define some dependencies for mybinder:
-https://mybinder.readthedocs.io/en/latest/using/config_files.html
+If your JupyterLab notebook requires some dependencies,<br>
+you can specify them with<br>
+* postBuild : a bash script file that can be used to install jupyterlab extensions
+* requirements.txt: install pip packages 
+* apt.txt : install linux dependencies with apt-get package manager
+
+Also see:
+* https://mybinder.readthedocs.io/en/latest/using/config_files.html
+* https://github.com/jupyterlab/jupyterlab-demo
 
 
 If you get the below examples working, please let me know.
