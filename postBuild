@@ -15,7 +15,4 @@ jupyter labextension install keplergl-jupyter --no-build
 
 #plotly
 jupyter labextension install jupyterlab-plotly --no-build
-jupyter labextension install plotlywidget --no-build
-
-#build jupyter to include all previously installed extensions
-jupyter build --minimize=False
+jupyter labextension install plotlywidget --minimize=False #last dependency; runs build
