@@ -30,12 +30,9 @@
       "properties": {
         "__comment__": "Following styling properies are only supported by GitHub and geojson.io, not by jupyterlab-geojson-extension",
         "title": "A title",
-        "description": "A description",
-        "marker-size": "large",
-        "marker-symbol": "bus",
-        "marker-color": "#00ff00",
-        "stroke": "blue",
-        "stroke-opacity": 0.5,
+        "description": "A description",      
+        "stroke": "red",
+        "stroke-opacity": 1,
         "stroke-width": 3,
         "fill": "red",
         "fill-opacity": 1
