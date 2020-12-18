@@ -18,11 +18,57 @@
         "marker-symbol": "bus",
         "marker-color": "#00ff00",
         "stroke": "#e70d0d",
-        "stroke-opacity": 1,
+        "stroke-opacity": 0.5,
         "stroke-width": 3,
         "fill": "#555555",
         "fill-opacity": 0.5
       }
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "__comment__": "Following styling properies are only supported by GitHub and geojson.io, not by jupyterlab-geojson-extension",
+        "title": "A title",
+        "description": "A description",
+        "marker-size": "large",
+        "marker-symbol": "bus",
+        "marker-color": "#00ff00",
+        "stroke": "#e70d0d",
+        "stroke-opacity": 0.5,
+        "stroke-width": 3,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.441339917480946,
+              49.02830006725346
+            ],
+            [
+              8.441307060420513,
+              49.028359203081195
+            ],
+            [
+              8.441217206418514,
+              49.02831699461656
+            ],
+            [
+              8.441305048763752,
+              49.02825873808307
+            ],
+            [
+              8.441339917480946,
+              49.02830006725346
+            ]
+          ]
+        ]
+      }
     }
+    
+    
   ]
 }
