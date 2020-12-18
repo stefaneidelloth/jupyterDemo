@@ -21,7 +21,7 @@ to some online service (note different url syntax):
 
 * **nbviewer**: https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb?flush_cache=true
 
-* **mybinder**: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/demo.ipynb/lab<br>
+* **mybinder**: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/tree/demo.ipynb<br>
   (First shows noninteractive preview; might take a while until server is ready)
   
 ----
@@ -38,7 +38,7 @@ you can specify them with<br>
 Also see:
 * https://mybinder.readthedocs.io/en/latest/using/config_files.html
 * https://github.com/binder-examples/jupyter-extension
-* https://github.com/jupyterlab/jupyterlab-demo
+* https://github.com/binder-examples/jupyterlab
 
 
 If you get the below examples working, please let me know.
