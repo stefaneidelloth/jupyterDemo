@@ -43,15 +43,15 @@ you can specify them with<br>
 * environment.yml: install conda packages
 * apt.txt : install linux dependencies with apt-get package manager
 
-This project includes many depenencies => build time is quite long.
-
-Also see:
+For info about configuration files also see:
 * https://mybinder.readthedocs.io/en/latest/using/config_files.html
-* https://github.com/binder-examples/jupyter-extension
 * https://github.com/binder-examples/jupyterlab
+* https://github.com/binder-examples/jupyter-extension
 
+This project includes many depenencies => build time is quite long.
+For info about build time also see
 
-If you get the below examples working, please let me know.
+https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956
 
 
 **mybinder** (supporting some jupyterlab extensions and pip dependencies)
@@ -65,7 +65,7 @@ https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/tree/g
 https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/tree/geojson/d_kepler_gl.ipynb
 
 
-**nbviewer** (only supporting some default dependencies)
+**nbviewer** (only supporting some (interactive?) dependencies, e.g. bokeh)
 
 https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/a_geojson_extension.ipynb
 
