@@ -4,9 +4,17 @@ GitHub is able to
 
 https://github.com/stefaneidelloth/jupyterDemo/blob/master/demo_static.ipynb
 
+Also see
+
+https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github
+
 * **GeoJson** files:
 
 https://github.com/stefaneidelloth/jupyterDemo/blob/master/geojson/z_geojson_file.geojson
+
+Also see
+
+https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/mapping-geojson-files-on-github
 
 ----
 
