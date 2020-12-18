@@ -21,7 +21,7 @@ to some online service (note different url syntax):
 
 * **nbviewer**: https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb?flush_cache=true
 
-* **mybinder**: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/filepath=demo.ipynb
+* **mybinder**: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab/filepath=demo.ipynb<br>
   (First shows noninteractive preview; might take a while until server is ready)
   
 ----
