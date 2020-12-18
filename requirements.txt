@@ -1,0 +1,74 @@
+#file management
+gitpython
+fileupload
+pyreadline
+ipyfilechooser
+xlsxwriter
+xlrd
+
+#command line arguments
+args
+
+#data science
+numpy
+pandas 
+geopandas
+contextily
+pareto
+zeep
+
+#databases
+SQLAlchemy
+mysql-connector-python
+
+#plotting & widgets
+matplotlib
+ipympl
+bokeh 
+chord
+ggplot
+graphviz
+pivottablejs
+torchvision
+pydot
+
+#requirement management
+pipreqs
+
+#agent based modeling
+mesa
+ema_workbench
+
+#python to java pridge
+jpype1
+
+#jupyterlab
+jupyterlab 
+jupyterlab-git
+
+#ipywidgets
+ipywidgets
+
+#ipyleaflet
+ipyleaflet
+
+#plotly
+plotly
+
+#kepler
+keplergl
+
+#ipysheet
+ipysheet
+
+#holoviews
+holoviews
+
+#debugger
+xeus-python
+
+#pyomo
+pyomo
+
+#scrapy
+scrapy
