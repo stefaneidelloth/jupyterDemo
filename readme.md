@@ -43,6 +43,8 @@ you can specify them with<br>
 * environment.yml: install conda packages
 * apt.txt : install linux dependencies with apt-get package manager
 
+This project includes many depenencies => build time is quite long.
+
 Also see:
 * https://mybinder.readthedocs.io/en/latest/using/config_files.html
 * https://github.com/binder-examples/jupyter-extension
