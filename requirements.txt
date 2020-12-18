@@ -64,12 +64,3 @@ ipysheet
 
 #holoviews
 holoviews
-
-#debugger
-xeus-python
-
-#pyomo
-pyomo
-
-#scrapy
-scrapy
