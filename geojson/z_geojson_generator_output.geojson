@@ -8,8 +8,9 @@
     "coordinates": [ 8.4413, 49.0283 ] 
   },
  "properties": {    
-    "marker-symbol": "bus",
-    "marker-color": "red" 
+    "marker-size": "large",
+        "marker-symbol": "bus",
+        "marker-color": "#00ff00"
   }
 }
   
