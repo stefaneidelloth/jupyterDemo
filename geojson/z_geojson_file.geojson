@@ -2,7 +2,37 @@
     "type": "Feature",
     "geometry": {
         "type": "Point",
-        "coordinates": [8.4413, 49.0283],
-        "marker-color":"#ff0000",
+        "coordinates": [8.4413, 49.0283]
+    },
+    "properties": {
+           
+            "title": "A title",
+
+          
+            "description": "A description",
+
+         
+            "marker-size": "medium",
+
+           
+            "marker-symbol": "bus",
+
+          
+            "marker-color": "#fff",
+
+          
+            "stroke": "#555555",
+
+          
+            "stroke-opacity": 0.5,
+
+           
+            "stroke-width": 2,
+
+          
+            "fill": "#555555",
+
+          
+            "fill-opacity": 0.5
     }
 }
