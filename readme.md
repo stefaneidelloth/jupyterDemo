@@ -25,9 +25,11 @@ to some online service (note different url syntax):
 
 ----
 
-NbViewer and Bokeh do not support everything. If your dynamic notebook requires
-some JupyterLab extension, it might not work. Below are **some gis examples that do not work**.
+NbViewer and Bokeh do not support everything. If your notebook requires some JupyterLab extension,<br> 
+it might not work. Below are **some gis examples that do not work**.<br>
 If you get them working, please let me know.
+
+
 
 
 **nbviewer**
