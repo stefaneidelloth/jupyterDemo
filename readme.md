@@ -19,3 +19,20 @@ to some online service:
 * **nbviewer**: https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb?flush_cache=true
 
 * **mybinder**: https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?filepath=demo.ipynb
+
+Here are some dynamic gis examples:
+
+**nbviwer**
+
+https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/a_geojson_extension.ipynb
+https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/b_geopandas_and_ipympl.ipynb
+https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/c_leaflet.ipynb
+https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/d_kepler_gl.ipynb
+
+**mybinder**
+
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/blob/master/geojson/a_geojson_extension.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/blob/master/geojson/b_geopandas_and_ipympl.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/blob/master/geojson/c_leaflet.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/blob/master/geojson/d_kepler_gl.ipynb
+
