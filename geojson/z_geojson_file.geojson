@@ -1,40 +1,28 @@
 {
-    
-    "type": "Feature",    
-    "geometry": {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
-        "coordinates": [8.4413, 49.0283]
-    },    
-    "properties": {        
-            "__comment__": "Following styling properies are only supported by GitHub, not by jupyterlab-geojson-extension",
-           
-            "title": "A title",
-
-          
-            "description": "A description",
-
-         
-            "marker-size": "medium",
-
-           
-            "marker-symbol": "bus",
-
-          
-            "marker-color": "#00ff00",
-
-          
-            "stroke": "#555555",
-
-          
-            "stroke-opacity": 0.5,
-
-           
-            "stroke-width": 2,
-
-          
-            "fill": "#555555",
-
-          
-            "fill-opacity": 0.5
+        "coordinates": [
+          8.4413,
+          49.0283
+        ]
+      },
+      "properties": {
+        "__comment__": "Following styling properies are only supported by GitHub and geojson.io, not by jupyterlab-geojson-extension",
+        "title": "A title",
+        "description": "A description",
+        "marker-size": "large",
+        "marker-symbol": "bus",
+        "marker-color": "#00ff00",
+        "stroke": "#e70d0d",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      }
     }
+  ]
 }
