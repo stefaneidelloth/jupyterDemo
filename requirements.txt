@@ -1,5 +1,4 @@
 #file management
-gitpython
 fileupload
 pyreadline
 ipyfilechooser
@@ -32,20 +31,9 @@ pivottablejs
 torchvision
 pydot
 
-#requirement management
-pipreqs
-
-#agent based modeling
-mesa
-ema_workbench
-
-#python to java pridge
-jpype1
-
 #jupyterlab
 jupyterlab 
 jupyterlab-widgets
-jupyterlab-git
 
 #ipywidgets
 ipywidgets
@@ -58,9 +46,3 @@ plotly
 
 #kepler
 keplergl
-
-#ipysheet
-ipysheet
-
-#holoviews
-holoviews
