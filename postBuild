@@ -1,8 +1,8 @@
-jupyter lab build
+jupyter lab build --minimize=False
 jupyter serverextension enable jupyterlab
 
 #treez
-jupyter labextension install @treezjs/workspace_module --no-build
+jupyter labextension install @treezjs/workspace_module --no-build 
 
 #ipywidgets
 jupyter labextension install @jupyter-widgets/jupyterlab-manager --no-build
@@ -33,4 +33,4 @@ jupyter labextension install @lckr/jupyterlab_variableinspector --no-build
 jupyter labextension install ipysheet --no-build
 
 #holoviews
-jupyter labextension install @pyviz/jupyterlab_pyviz --no-build
+jupyter labextension install @pyviz/jupyterlab_pyviz --minimize=False
