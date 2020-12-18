@@ -16,12 +16,7 @@
         "description": "A description",
         "marker-size": "large",
         "marker-symbol": "bus",
-        "marker-color": "#00ff00",
-        "stroke": "#e70d0d",
-        "stroke-opacity": 0.5,
-        "stroke-width": 3,
-        "fill": "#555555",
-        "fill-opacity": 0.5
+        "marker-color": "#00ff00",       
       }
     },
     
