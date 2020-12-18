@@ -10,7 +10,7 @@ https://github.com/stefaneidelloth/jupyterDemo/blob/master/geojson/z_geojson_fil
 
 ----
 
-**Dynamic content** does not work un GitHub directly, see bokeh outout of following example:
+**Dynamic content does not work** on GitHub directly, see bokeh outout of following example:
 
 https://github.com/stefaneidelloth/jupyterDemo/blob/master/demo.ipynb
 
