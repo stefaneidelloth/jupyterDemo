@@ -26,7 +26,7 @@ to some online service (note different url syntax):
   
 ----
 
-NbViewer and Binder do not support everything by default. 
+Binder does not support everything by default. 
 
 If your JupyterLab notebook requires some dependencies,<br>
 you can specify them with<br>
@@ -44,19 +44,18 @@ Also see:
 If you get the below examples working, please let me know.
 
 
+**mybinder** (supporting some jupyterlab extensions and pip dependencies)
 
-**mybinder**
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/a_geojson_extension.ipynb
 
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=geojson/a_geojson_extension.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/b_geopandas_and_ipympl.ipynb
 
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=geojson/b_geopandas_and_ipympl.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/c_leaflet.ipynb
 
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=geojson/c_leaflet.ipynb
-
-https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?filepath=geojson/d_kepler_gl.ipynb
+https://mybinder.org/v2/gh/stefaneidelloth/jupyterDemo/master?urlpath=lab?urlpath=lab/tree/geojson/d_kepler_gl.ipynb
 
 
-**nbviewer** (does not work)
+**nbviewer** (not supporting dependencies)
 
 https://nbviewer.jupyter.org/github/stefaneidelloth/jupyterDemo/blob/master/geojson/a_geojson_extension.ipynb
 
